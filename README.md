@@ -9,8 +9,6 @@ This repository contains Jupyter notebooks demonstrating various evaluation metr
       - Accuracy
       - Precision, Recall, and F1 Score
       - Confusion Matrix
-      - ROC Curve and AUC
-      - Precision-Recall Curve
 
 2. [Regression Evaluation Metrics](Regression_Evaluation_Metrics.ipynb)
     - This notebook covers essential metrics for evaluating regression models, including:
